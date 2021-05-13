@@ -161,5 +161,13 @@
     <ClInclude Include="rftu.h">
       <Filter>Source Files\User Interface</Filter>
     </ClInclude>
+    <ClInclude Include="stb_image_write.h">
+      <Filter>Source Files\User Interface</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
